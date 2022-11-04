@@ -1,12 +1,12 @@
 {
   "params": [
     {
-      label: "City",
-      value: "city"
+      "label": "City e.g. London",
+      "value": "city"
     },
     {
-      label: "User",
-      value: "user"
+      "label": "Username",
+      "value": "user"
     }
   ]
 }
