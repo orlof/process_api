@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "label": "Example parameter",
+        "name": "example1"
+    },
+    {
+        "label": "Another parameter",
+        "name": "another"
+    }
+]
